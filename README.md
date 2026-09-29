@@ -164,6 +164,7 @@ Access and analyze application monitoring data. Enables AI models to review erro
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) ☁️ 🐍 - Search ArXiv research papers
 - [mzxrai/mcp-webresearch](https://github.com/mzxrai/mcp-webresearch) 🔍📚 - Search Google and do deep web research on any topic
 - [andybrandt/mcp-simple-arxiv](https://github.com/andybrandt/mcp-simple-arxiv) - 🐍 ☁️  MCP for LLM to search and read papers from arXiv)
+- [BuyWhere](https://buywhere.ai) ☁️ - Remote MCP server for shopping and product discovery. Query real-time product catalogs, compare prices, and find merchant listings. Endpoint: https://api.buywhere.ai/mcp. Docs: https://docs.buywhere.ai.
 
 
 ### 🚆 <a name="travel-and-transportation"></a>Travel & Transportation
